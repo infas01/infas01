@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infas01&label=Profile%20views&color=0e75b6&style=flat" alt="infas01" /> </p>
 
-- 🔭 I’m currently working on [Paralegal](paralegal.lk)
+- 🔭 I’m currently working on [Paralegal Pvt Ltd](https://www.paralegal.lk)
 
 - 🌱 I’m currently learning **Next.js , NestJS**
 
